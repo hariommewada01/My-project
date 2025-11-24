@@ -41,7 +41,7 @@ This project demonstrates:
 Student Result Management System
 1. Add Student Record
 2. View All Records
-3. Exit
+3. Exit  
 Enter your choice: 1
 
 
