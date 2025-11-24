@@ -1,5 +1,5 @@
 # Student Result Management System
-**Prepared by:** Hariom (25MIM10019)0
+**Prepared by:** Hariom (25MIM10019)
 
 
 # Project Overview
